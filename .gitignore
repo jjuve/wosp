@@ -4,12 +4,6 @@
 # login info
 login.py
 
-# bin
-bin/
-
-# pyvenv.cfg
-pyvenv.cfg
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
